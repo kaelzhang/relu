@@ -15,7 +15,7 @@
 
 # relu
 
-<!-- description -->
+The rectified linear unit.
 
 ## Install
 
@@ -27,6 +27,9 @@ $ npm install relu
 
 ```js
 import relu from 'relu'
+
+relu(-1) // 0
+relu(1)  // 1
 ```
 
 ## License
