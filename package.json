@@ -1,6 +1,6 @@
 {
   "name": "relu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ReLU, the rectified linear unit",
   "main": "src/index.js",
   "scripts": {
@@ -17,7 +17,10 @@
     "url": "git://github.com/kaelzhang/relu.git"
   },
   "keywords": [
-    "relu"
+    "relu",
+    "function",
+    "neuron",
+    "network"
   ],
   "engines": {
     "node": ">=4"
